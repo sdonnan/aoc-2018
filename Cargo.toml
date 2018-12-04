@@ -5,3 +5,4 @@ authors = ["Stuart Donnan <sdonnan@fastmail.com>"]
 
 [dependencies]
 clap = "2.*"
+regex = "1.*"
